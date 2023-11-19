@@ -3,8 +3,6 @@ PWR-A53-B2 reverse engineered servo control example code
 
 https://qiita.com/ebisuke/items/223309882abda44fd1c7
 
-Here's the translation of your text to English:
-
 # Summary
 I bought the XiaoR GEEK Raspberry Pi TH Robot and was ready to start using it, but the included library didn't work, so I had to find a way to operate it myself. Unfortunately, there was no information available such as source code or documentation, so I had to do some research.
 
